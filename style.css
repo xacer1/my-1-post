@@ -1,0 +1,49 @@
+.body{
+    width: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head{
+    text-align: center;
+}
+.img{
+    width:350px;
+}
+.piter,.date{
+    font-size:30px;
+    color: rgb(76, 112, 112);
+}
+main{
+    border: 1 px solid rgb(19, 16, 16);
+    text-align: center; 
+}
+.hr{
+    width: 50%;
+    height: 2px;
+    background-color: rgb(164, 150, 234);
+}
+.listen {
+   background-color: rgb(228, 199, 199); 
+}
+.lis{
+    border: 1px solid rgb(53, 48, 48); 
+    border-collapse: collapse;
+    width: 100%;
+}
+.hobby{
+    list-style: none;
+}
+.lis th,
+.lis td{
+    border: 1px solid rgb(53, 48, 48); 
+}
+.quote{
+    font-size: 35px;
+}
+footer{
+    height: 100%;
+    text-align: center;
+    background-color: rgb(79, 139, 130);
+}
+footer a{
+    color: aqua;
+}
